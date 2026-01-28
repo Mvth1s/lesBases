@@ -36,7 +36,7 @@ Voici un tableau récapitulatif des concepts que j'ai étudiés et de mon niveau
 
 | Concept                | Étudié ✅ | Maîtrisé ⭐ | Projet associé       |
 |------------------------|-----------|------------|----------------------|
-| Variables et types     | ❌         | ⭐⭐⭐       | hello.py             |
+| Variables et types     | ❌         | ⭐⭐⭐       | variables.py, types.py            |
 | Opérateurs             | ❌         | ⭐⭐⭐       | calculatrice.py      |
 | Structures de contrôle | ❌         | ⭐⭐        | boucles.py           |
 | Fonctions              | ❌         | ⭐⭐⭐       | fonctions.py         |
