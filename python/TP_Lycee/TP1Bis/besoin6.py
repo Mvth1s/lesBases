@@ -1,6 +1,6 @@
 
 # Besoin 6
-print("----------Besoin n°1----------")
+print("----------Besoin n°6----------")
 
 print("Veillez choisir une nombre de départ !")
 nbr_depart = int(input())
