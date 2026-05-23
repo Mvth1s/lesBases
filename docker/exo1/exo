@@ -1,0 +1,6 @@
+docker run -d -p 8080:80 --name mon-nginx nginx
+ docker ps
+ docker logs mon-nginx
+ docker exec -it mon-nginx bash
+ ls /etc/nginx 
+ 
